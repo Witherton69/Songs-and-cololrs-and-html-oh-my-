@@ -1,0 +1,28 @@
+h1 {
+    color: plum;
+  }
+  
+  h2 {
+    color: #f57905;
+  }
+  
+  h3 {
+    color: #ff0;
+  }
+  
+  h4 {
+    color: #f0c699aa;
+  }
+  
+
+  h5 {
+    color: #fc0f;
+  }
+  
+  h6 {
+    color: rgb(100, 149, 237);
+  }
+  
+  p {
+    color: rgba(100, 30, 30, 0.5);
+  }
